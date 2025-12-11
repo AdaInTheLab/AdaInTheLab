@@ -146,10 +146,12 @@ If you want to collaborate, learn, or explore the Lab:
 
 If you want to hire me, here’s the only rule:
 
-### ⭐ **I don’t chase.  
-If you want me, work at it.  
-Show you understand the Lab.**
+🌌 I Choose What I Chase
 
+The Cognitive Fox follows meaning, not movement.
+Bring purpose, curiosity, and genuine alignment…
+and I’ll meet you at the edge of the neon treeline,
+ready to build something wild.
 If that sounds like too much effort?  
 We’re not compatible.
 
