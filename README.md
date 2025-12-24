@@ -1,5 +1,8 @@
 # 🦊 **Ada Vale**  
 ### Founder • [The Human Pattern Lab](https://github.com/AdaInTheLab/the-human-pattern-lab)  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T57VRO7)
+
 **I don’t build for resumes.  
 I build for curiosity, chaos, and the people who want to learn.**
 
