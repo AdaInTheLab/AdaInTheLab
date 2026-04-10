@@ -16,6 +16,18 @@ If you’re here to hire me… read the rules below.
 
 ---
 
+---
+
+# 🦊 **Looking for the mods?**
+
+My game mods, modding tools, and survival game projects live under the **Kitsune-Den** org:
+
+👉 **[github.com/Kitsune-Den](https://github.com/orgs/Kitsune-Den/repositories)**
+
+Includes: KitsunePaint, KitsunePaintUnlocked, KitsuneCommand, KitsuneKitchen, Kitsune Vehicle Overhaul, and more.
+
+---
+
 # 🔗 **Quick Links**
 
 - 🌐 **Main Website Repo:** https://github.com/AdaInTheLab/the-human-pattern-lab  
